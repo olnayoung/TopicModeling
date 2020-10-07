@@ -7,4 +7,9 @@ When new data added, it is hard to update because we have to calculate everythin
  
 * Latent Dirichlet Allocation (LDA)
 
-Presume with the probability that the word exists in *the topic* and teh probability that *the topic* exists in the document.
+Get topic from the probability that the word exists in *the topic* and the probability that *the topic* exists in the document.
+
+
+* Dynamic Topic Model (DTM)
+
+*The Nth topic in year Y* has to be similar with *the Nth topic in year (Y+1)*
